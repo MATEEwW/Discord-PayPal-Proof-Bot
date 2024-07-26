@@ -1,5 +1,5 @@
 # Discord-PayPal-Proof-Bot
-
+r
 Made in literally 30 mins, took most of the code off of the nitro proof bot
 
 ![Example](html/voke.png)
